@@ -50,8 +50,8 @@ def Hauser():
     c2 = turtle.Pen()
     c2.color("pink")
 
-    c1.speed(1)
-    c2.speed(1)
+    c1.speed(5)
+    c2.speed(5)
 
     c1.penup()
     c2.penup()
@@ -82,11 +82,14 @@ def Hauser():
     c1.forward(75)
     c2.forward(75)
 
-    c1.penup()
+    #c1.penup()
     c2.penup()
 
-    c1.goto(-50,100)
-    c2.goto(150,100)
+    #c1.goto(-50,300)
+    c2.goto(150,30)
+
+    c1.pendown()
+    c2.pendown()
 
 
 
