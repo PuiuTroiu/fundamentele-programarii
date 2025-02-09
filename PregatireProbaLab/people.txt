@@ -1,0 +1,14 @@
+Andrei,24
+Mara,18
+Mihai,29
+Antonia,21
+George,19
+Samantha,16
+Kevin,14
+Maia,19
+Samuel,21
+Aliona,28
+Iustin,24
+Ilina,25
+Sorin,14
+Anastasia,17
